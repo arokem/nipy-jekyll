@@ -9,7 +9,9 @@ author:
 
 # Build settings
 baseurl: "" # Change this to your relative path (ex: /blog/), or leave just a
-css_baseurl: "/"
+js_baseurl: "https://arokem.github.io/nipy-jekyll/css/"
+css_baseurl: "https://arokem.github.io/nipy-jekyll/css/"
+image_baseurl: "https://arokem.github.io/nipy-jekyll/images/"
 markdown: kramdown
 source: .
 destination: ./_site
