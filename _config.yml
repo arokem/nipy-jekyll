@@ -8,7 +8,7 @@ author:
   url: "nipy.github.io"
 
 # Build settings
-baseurl: "" # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: "arokem.github.io/nipy-jekyll" # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
@@ -30,4 +30,3 @@ version: "1.1.0"
 
 # Options
 reverse: true
-
